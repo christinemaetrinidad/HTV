@@ -577,7 +577,8 @@ hr.hr1 {
     background-size: cover;
     background-attachment: fixed;
     background-repeat: no-repeat;
-	float:center;
+	float:left;
+	width:100%;
 }
 .serv {
     float: center;
